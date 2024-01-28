@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Master-Kage
 - 👀 I’m interested in 
-- 🌱 I’m currently learning Python and HTML
+- 🌱 I’m currently learning HTML, C++ and Javascript
 - 📫 How to reach me Mohamedalhatimi7@gmail.com
 
 <!---
